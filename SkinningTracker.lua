@@ -1,5 +1,5 @@
 -- =====================================
--- SkinningTracker v1.1 (FIXED)
+-- SkinningTracker v1.0
 -- =====================================
 
 -- =====================================
@@ -213,3 +213,4 @@ SlashCmdList["ST"] = function()
         UpdateText()
     end
 end
+
