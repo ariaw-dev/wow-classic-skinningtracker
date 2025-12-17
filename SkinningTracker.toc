@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: SkinningTracker
+## Notes: Tracks skinning sessions (time, kills, skins) with a session log
+## Author: ariaw
+## Version: 1.0
+
+SkinningTracker.lua
